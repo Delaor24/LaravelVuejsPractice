@@ -17,6 +17,7 @@ mix.styles([
 ], "public/frontend/css/app.css");
 
 
+
 mix.js('resources/js/app.js', 'public/js')
     .js('resources/js/frontend.js', 'public/js')
     .vue()
