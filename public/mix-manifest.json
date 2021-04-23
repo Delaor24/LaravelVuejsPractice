@@ -41,5 +41,17 @@
     "/frontend/fonts/ruda-regular-webfont .woff": "/frontend/fonts/ruda-regular-webfont .woff",
     "/frontend/font-awesome/LICENSE.txt": "/frontend/font-awesome/LICENSE.txt",
     "/frontend/font-awesome/README.md": "/frontend/font-awesome/README.md",
+    "/favicon.ico": "/favicon.ico",
+    "/index.php": "/index.php",
+    "/robots.txt": "/robots.txt",
+    "/images/attach.png": "/images/attach.png",
+    "/images/default-50x50.gif": "/images/default-50x50.gif",
+    "/images/error.png": "/images/error.png",
+    "/images/favicon.png": "/images/favicon.png",
+    "/images/info.png": "/images/info.png",
+    "/images/noimage.png": "/images/noimage.png",
+    "/images/success.png": "/images/success.png",
+    "/images/user.png": "/images/user.png",
+    "/images/warning.png": "/images/warning.png",
     "/frontend/css/app.css": "/frontend/css/app.css"
 }

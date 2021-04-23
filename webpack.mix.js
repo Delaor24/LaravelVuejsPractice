@@ -5,11 +5,14 @@ mix.scripts([
 ], "public/frontend/js/app.js");
 
 
-// COPY FILES / DIRECTORY
+// frontend / DIRECTORY
 mix.copyDirectory('resources/js/frontend/assets/images', 'public/frontend/images')
     .copyDirectory('resources/js/frontend/assets/fonts', 'public/frontend/fonts')
     .copyDirectory('resources/js/frontend/assets/font-awesome', 'public/frontend/font-awesome');
 
+// backend / DIRECTORY
+mix.copyDirectory('resources/js/assets/public', 'public')
+    .copyDirectory('resources/js/assets/backend/images', 'public/images');
 
 mix.styles([
     "resources/js/frontend/assets/css/style.css",
